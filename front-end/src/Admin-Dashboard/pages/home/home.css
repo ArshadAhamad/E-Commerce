@@ -1,0 +1,24 @@
+.home {
+    padding-top: 80px;
+    float: right;
+    width: 100%;
+    padding-left: 100px;
+  }
+  
+  .homeWidgets {
+    padding-top: 10px;
+    margin: 20px;
+  }
+  h2 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    color: #333333;
+  }
+  

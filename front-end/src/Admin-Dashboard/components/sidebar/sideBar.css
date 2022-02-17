@@ -1,0 +1,107 @@
+.sidebar {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    width: 17.77%;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: #ffffff;
+    box-shadow: 6px 0px 18px rgba(0, 0, 0, 0.06);
+    background: #ffffff;
+    box-shadow: 6px 0px 18px rgba(0, 0, 0, 0.06);
+    left: 0;
+  }
+  
+  .sidebarWrapper {
+    padding: 20px;
+    color: #555;
+  }
+  
+  .sidebarMenu {
+    margin-bottom: 10px;
+  }
+  .topLeft {
+    text-align: center;
+  }
+  .logo {
+    font-weight: 600;
+    height: 26px;
+    width: 69px;
+    top: 17px;
+    left: 24px;
+    font-size: 18px;
+    line-height: 24.51px;
+    color: darkblue;
+    cursor: pointer;
+  }
+  
+  .sidebarList {
+    list-style: none;
+    padding: 5px;
+    margin: 2px;
+    background-color: rgb(240, 240, 255);
+    border-radius: 20px;
+  }
+  
+  .sidebarListItem {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19px;
+    padding-top: 20px;
+    letter-spacing: 0.01em;
+    color: #334d6e;
+  }
+  
+  .sidebarListItem.active,
+  .sidebarListItem:hover {
+    background-color: rgb(240, 240, 255);
+  }
+  .link {
+    padding-top: 20px;
+  }
+  .sidebarIcon {
+    margin: 5px;
+    font-size: 20px !important;
+  }
+  img {
+    height: 62px;
+    width: 47px;
+    left: -9px;
+    left: -19.57%;
+    right: -15.22%;
+    top: 0%;
+    bottom: -2.17%;
+  }
+  .img {
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+  }
+  .spanImg {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #192a3e;
+  }
+  .spanMail {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    /* gray */
+  
+    color: #90a0b7;
+  }
+  

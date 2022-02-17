@@ -1,0 +1,146 @@
+.widgetLg {
+    flex: 2;
+    padding: 10px;
+    font-family: Poppins;
+  }
+  
+  .widgetLgTitle {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    color: #333333;
+    padding-bottom: 22px;
+  }
+  
+  .widgetSub {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    color: #968045;
+    padding-bottom: 27px;
+  }
+  
+  .widgetRole {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    /* filter_gray */
+  
+    color: #6a707e;
+    padding-bottom: 24px;
+  }
+  
+  .widgetLgTable {
+    width: 120%;
+  }
+  .widgetLgTr {
+    background: #ffffff;
+    border-radius: 4px;
+  }
+  .widgetLgTr1{
+    width: 1110px;
+    height: 64px;
+  }
+  .widgetLgTh {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19px;
+    letter-spacing: 0.01em;
+    color: #334d6e;
+    opacity: 0.5;
+  }
+  .widgetLgUser {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #323c47;
+  }
+  .widgetLgEmail {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    /* table_gray */
+  
+    color: #707683;
+  }
+  .widgetLgRole {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    /* table_gray */
+  
+    color: #707683;
+  }
+  .widgetLgAct {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+  
+    /* table_gray */
+  
+    color: #707683;
+  }
+  
+  .widgetLgImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  .widgetCheckBox {
+    border: 2px solid #d5d5d5;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  .button {
+    background-color: #968045;
+    box-shadow: 30000px 4px 10px #968045;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.01em;
+  
+    width: 160px;
+    height: 42px;
+  }
+  
